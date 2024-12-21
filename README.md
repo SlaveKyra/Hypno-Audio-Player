@@ -16,6 +16,7 @@ This will run hidden in the background so you dont get disturbed by a ugly popup
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 Config
 You can configure some things yourself by editing the config.json.
 You HAVE TO CONFIGURE THE AUDIO FOLDER!!!! Otherwise this won't work.
