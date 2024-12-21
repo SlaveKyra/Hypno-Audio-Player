@@ -6,6 +6,14 @@ Great for some enforced hypno sessions. ^-^
 
 PLEASE USE WITH CARE!
 
+All you need is python installed and the pygame package.(Please correct me if im wrong.)
+
+You can either use the .py file to start the tool with a small console,
+or use the .exe for it to run quietly in the background. (If you dont trust my .exe feel free to create your own using the .py file and pyinstaller (pyinstaller --onefile --noconsole) )
+
+
+
+
 For example:
 I use this to automatically start some of my Hypnos Randomly between 00:00 and 04:00 oclock with a 3% chance to start the audio every minute during this Time.
 I have this in my Autostart so i dont have to worry about it running.(And this way i can't forget to start it)
@@ -13,6 +21,11 @@ I have this in my Autostart so i dont have to worry about it running.(And this w
 You can set your own Filepath for ur own Audios. This will scan folders and subfolders.
 
 This will run hidden in the background so you dont get disturbed by a ugly popup.
+
+REMEMBER YOU NEED TO INSTALL Pygame
+
+pip install pygame
+
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
