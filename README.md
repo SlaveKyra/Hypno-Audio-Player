@@ -1,5 +1,7 @@
 # Hypno-Audio-Player
 A small script i made for me but figured i might share this with you silly little Girls :3
+Great for Sissys, Bambis, Gooning and whatever usecase you might find for it.
+
 
 This script will play your own Hypno audio files randomly during a specified timeframe.
 Great for some enforced hypno sessions. ^-^
