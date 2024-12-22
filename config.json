@@ -1,0 +1,9 @@
+{
+    "AUDIO_FOLDER": "C:/path/to/your/Audio",
+    "START_TIME": 0,
+    "END_TIME": 800,
+    "START_CHANCE": 5,
+    "AUDIO_LOAD_COUNT": 5,
+    "BREAK_TIME_MIN": 5,  
+    "BREAK_TIME_MAX": 30  
+}
